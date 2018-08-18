@@ -7,6 +7,7 @@ textline: News
 menu:
   navigation:
     weight: 1
+    title: Blogs
   footer:
     identifier: _projects
     url: "/projects/"

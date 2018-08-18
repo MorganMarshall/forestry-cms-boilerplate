@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Professional Counselor & International Author
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Professional Counselor
 hero_button:
   text: Learn more
   href: "/about"

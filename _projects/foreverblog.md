@@ -1,5 +1,5 @@
 ---
-title: ForeverBlog
+title: ForeverBlogs
 tags: []
 date: 2018-08-18 18:31:27 +0000
 sub_heading: ''

@@ -10,11 +10,6 @@ tags:
 - engineering
 - research
 slug: ''
-menu:
-  navigation:
-    identifier: _projects
-    weight: 4
-    title: Blog
 
 ---
 ## Overview
